@@ -2,7 +2,7 @@
 
 Цифровой помощник врача и пациента для наблюдения за тревожно-депрессивной симптоматикой. Проект команды для кейс-чемпионата.
 
-**Сайт:** https://vicbuxt.github.io/ravnovesie_case_championship/
+**Сайт:** https://vicbuxt.github.io/ravnovesie_case_championship/ravnovesie_prototype.html
 
 **Модель оценки риска:** https://vicbuxt.github.io/ravnovesie_case_championship/risk_model_demo.html
 
