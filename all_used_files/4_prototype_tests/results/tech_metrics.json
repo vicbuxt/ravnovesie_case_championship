@@ -1,0 +1,95 @@
+{
+ "load_s": [
+  0.38,
+  0.41,
+  0.48
+ ],
+ "patient_tab_ms": [
+  3,
+  10.400000000023283,
+  25.699999999953434
+ ],
+ "risk_model_ms": [
+  7.200000000069849,
+  11.5
+ ],
+ "alert_diary_ms": {
+  "ms": 16.5,
+  "ok": true,
+  "persisted": true,
+  "reason": "Дневник: модель оценила риск как высокий (78%) — «Не хочу больше жить, всё решено.»"
+ },
+ "alert_sos_ms": {
+  "ms": 6,
+  "ok": true
+ },
+ "doctor_sees_alert": true,
+ "doctor_tab_ms": [
+  3.099999999976717,
+  5.700000000069849,
+  30.29999999993015
+ ],
+ "patient_card_ms": [
+  5.099999999976717,
+  14,
+  39.300000000046566
+ ],
+ "recommend_ms": 0.02058333333329453,
+ "extract_ms": 0.46600000000093134,
+ "doctor_list_scaling": [
+  {
+   "N": 100,
+   "render_ms": 10.29999999993015,
+   "filter_ms": 0.09999999997671694,
+   "urgent": 1
+  },
+  {
+   "N": 1000,
+   "render_ms": 50.20000000006985,
+   "filter_ms": 0.5,
+   "urgent": 1
+  },
+  {
+   "N": 5000,
+   "render_ms": 334.70000000006985,
+   "filter_ms": 2,
+   "urgent": 1
+  }
+ ],
+ "restore_after_reload": {
+  "auth": true,
+  "alerts": 1,
+  "diary": 4
+ },
+ "fuzz": {
+  "calls": 8023,
+  "exceptions": 0
+ },
+ "errors": [],
+ "viewports": [
+  {
+   "w": 360,
+   "overflow": []
+  },
+  {
+   "w": 390,
+   "overflow": []
+  },
+  {
+   "w": 768,
+   "overflow": []
+  },
+  {
+   "w": 1024,
+   "overflow": []
+  },
+  {
+   "w": 1440,
+   "overflow": []
+  },
+  {
+   "w": 1920,
+   "overflow": []
+  }
+ ]
+}
