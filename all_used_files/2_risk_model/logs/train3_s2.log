@@ -1,0 +1,13 @@
+params 857987
+ep 1 loss 0.723 val acc 0.897 high rec 0.929 112s
+ep 2 loss 0.337 val acc 0.951 high rec 0.977 213s
+ep 3 loss 0.284 val acc 0.951 high rec 0.984 310s
+ep 4 loss 0.264 val acc 0.963 high rec 0.984 410s
+ep 5 loss 0.250 val acc 0.965 high rec 0.978 514s
+ep 6 loss 0.242 val acc 0.965 high rec 0.989 614s
+ep 7 loss 0.236 val acc 0.970 high rec 0.986 716s
+ep 8 loss 0.231 val acc 0.970 high rec 0.989 815s
+ep 9 loss 0.227 val acc 0.971 high rec 0.989 912s
+ep 10 loss 0.227 val acc 0.971 high rec 0.988 1007s
+thresholds high 0.74 hope 0.26
+size json KB 1119
